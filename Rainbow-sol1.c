@@ -38,3 +38,7 @@ int main(int argc, char *argv[]) {
 	
 	return 0;
 }
+
+/*QA
+EL programa no compila debido al error:
+C:\Users\Lonthy\Desktop\Nueva carpeta\testing\Rainbow-sol1.c:26:26: error: C++ style comments are not allowed in ISO C90 */
